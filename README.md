@@ -26,7 +26,7 @@ Overview of modules studied during my HPC Master's degree at the University of S
 
 ### Semester 1
 - Grid Administration and Management
-- Multi-core Programming
+- Multi-core Programming (GPU - CUDA)
 - Medical Imaging and Parallelism
 - Deep Learning
 - NLP (Natural Language Processing)
