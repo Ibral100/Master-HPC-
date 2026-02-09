@@ -1,43 +1,40 @@
-# Master-HPC-
-Presentation des modules etudies lors de mon master HPC a l'Université des Sciences et de la Technologie Houari Boumediene
+# Master HPC
 
+Présentation des modules étudiés lors de mon Master HPC à l'Université des Sciences et de la Technologie Houari Boumediene.
 
-Master 1 : 
+## Master 1
 
-semestre 1 : 
+### Semestre 1
+- Algorithmique avancée et complexité
+- Architectures avancées
+- Bases de données avancées
+- Analyse numérique
+- Data mining
+- Anglais
 
-algo avancee et complexite 
-architectures avancees 
-bdd avancees
-analyse numerique
-Data mining 
-Anglais
+### Semestre 2
+- Architectures parallèles
+- Algorithmique parallèle
+- Réseaux et protocoles
+- Techniques de programmation avancées
+- Calcul parallèle
+- Big Data
+- Anglais
 
-semestre 2 : 
+## Master 2
 
-architectures paralles 
-algorithmique parallele
-reseaux et protocoles
-techniques de programmation avancees
-calcul parallele
-Big data
-Anglais
+### Semestre 1
+- Systèmes d'exploitation des ordinateurs multiprocesseurs
+- Administration et gestion des grilles
+- Programmation multi-cœurs
+- Imagerie médicale et parallélisme
+- Deep Learning
+- NLP (Natural Language Processing)
+- Anglais
 
+### Semestre 2
+- Stage - github.com/Ibral100/QA-Data-Pipeline-RAG-LLM
 
+---
 
-Master 2 : 
-
-
-semestre 1 : 
-
-systemes exploitation des ordinateurs multiprocesseurs
-administration et gestion des grilles
-programmation multi-coeurs
-imagerie medicale et parallelisme
-Deep learning
-NLP
-anglais
-
-semestre 2 : 
-
-stage , lien : 
+*Université des Sciences et de la Technologie Houari Boumediene (USTHB)*
