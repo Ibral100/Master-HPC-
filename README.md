@@ -7,6 +7,7 @@ Présentation des modules étudiés lors de mon Master HPC à l'Université des 
 ### Semestre 1
 - Algorithmique avancée et complexité
 - Architectures avancées
+- Systemes d'exploitation
 - Bases de données avancées
 - Analyse numérique
 - Data mining
@@ -24,7 +25,6 @@ Présentation des modules étudiés lors de mon Master HPC à l'Université des 
 ## Master 2
 
 ### Semestre 1
-- Systèmes d'exploitation des ordinateurs multiprocesseurs
 - Administration et gestion des grilles
 - Programmation multi-cœurs
 - Imagerie médicale et parallélisme
