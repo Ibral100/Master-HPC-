@@ -33,7 +33,7 @@ Présentation des modules étudiés lors de mon Master HPC à l'Université des 
 - Anglais
 
 ### Semestre 2
-- Stage - github.com/Ibral100/QA-Data-Pipeline-RAG-LLM
+- Stage - https://github.com/Ibral100/QA-Data-Pipeline-RAG-LLM
 
 ---
 
